@@ -5,3 +5,5 @@ git clone https://github.com/WeX-XD/dumpid.git
 cd dumpid
 
 python run.py
+
+git pull for update
