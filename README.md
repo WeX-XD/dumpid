@@ -6,4 +6,4 @@ cd dumpid
 
 python run.py
 
-git pull for update
+git pull 𝐅𝐨𝐫 𝐔𝐩𝐝𝐚𝐭𝐞
